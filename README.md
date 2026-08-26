@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi! 👋 I'm Shaun
 
-<!--
-**Shaun520/Shaun520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Senior-year CS student, currently looking for job opportunities
+- 🎬 Passionate about AI-powered comics & animation — telling stories through AI tools
+- 🔭 Always exploring new tech and creative ways to turn ideas into vivid visuals
+- ⚡ Love working with AI-driven creation, open to collaboration
+- 📫 If what I'm building interests you, feel free to reach out :)
 
-Here are some ideas to get you started:
+### Links
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Personal Portfolio:
+  `https://www.shaun.asia/`
+- 抖音 (Douyin):
+  `https://v.douyin.com/EHanhtD3Vqo/`
+- 哔哩哔哩 (Bilibili):
+  `https://b23.tv/4PqHrHb`
+
+> *"Every spark of innovation deserves a partner to light the fire."*
+
+
